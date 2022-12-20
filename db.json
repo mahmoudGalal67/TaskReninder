@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "text": "swap the stairs",
+      "day": "2:45",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "wash the roof",
+      "day": "11",
+      "reminder": true,
+      "id": 2
+    }
+  ]
+}
